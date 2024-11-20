@@ -2,7 +2,7 @@
 
 🖱️ **Castle Carnage Script** is a tool that helps you play the Dota 2 custom game mode, Castle Carnage. It automates gameplay with pre-recorded macros, enabling you to achieve 27 stars and complete all 9 levels smoothly and efficiently.
 
-![image](https://github.com/user-attachments/assets/89204251-e7b8-493c-b16c-2d52cab8a3ed)
+![Untitled](https://github.com/user-attachments/assets/e8f0318b-f533-4097-8858-bdaa31ffbec8)
 
 ---
 
