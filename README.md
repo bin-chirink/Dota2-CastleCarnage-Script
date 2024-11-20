@@ -28,7 +28,7 @@
 ## Requirements
 
 - **Screen Resolution**: Ensure the game is set to **1600x900 pixels** in windowed mode.
-- **Microsoft Defender**: If you have Microsoft Defender antivirus, try temporarily disabling it.
+- **Microsoft Defender**: If you have *Microsoft Defender* antivirus, try temporarily disabling it.
 
 ---
 
