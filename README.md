@@ -1,4 +1,4 @@
-# Castle Carnage Script Download 2024
+# Castle Carnage Script for Dota 2
 
 🖱️ **Castle Carnage Script** is a tool that helps you play the Dota 2 custom game mode, Castle Carnage. It automates gameplay with pre-recorded macros, enabling you to achieve 27 stars and complete all 9 levels smoothly and efficiently.
 
