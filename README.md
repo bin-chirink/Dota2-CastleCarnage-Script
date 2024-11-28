@@ -1,6 +1,6 @@
-# Castle Carnage Script for Dota 2
+# Castle Carnage Script for Dota 2 + UPDATE HARD MODE
 
-🖱️ **Castle Carnage Script** is a tool that helps you play the Dota 2 custom game mode, Castle Carnage. It automates gameplay with pre-recorded macros, enabling you to achieve 27 stars and complete all 9 levels smoothly and efficiently.
+🖱️ **Castle Carnage Script** is a tool that helps you play the Dota 2 custom game mode, Castle Carnage. It automates gameplay with pre-recorded macros, enabling you to achieve 36 stars and complete all 9 levels in normal mode and 3 levels in hard mode smoothly and efficiently.
 
 ![Untitled](https://github.com/user-attachments/assets/e8f0318b-f533-4097-8858-bdaa31ffbec8)
 
